@@ -1,0 +1,8 @@
+# 自定义
+
+# steam
+DOMAIN-SUFFIX,cm.steampowered.com
+
+# wildcard DNS
+DOMAIN-SUFFIX,nip.io
+DOMAIN-SUFFIX,sslip.io
