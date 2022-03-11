@@ -1,6 +1,13 @@
 .PHONY: init
 init:
 	git submodule update --init
+
+.PHONY: update
+update:
+	git submodule update --remote
+
+.PHONY: dist
+dist:
 	@rm -rf Clash
 	cp -rf ACL4SSR/Clash .
 	cp -rf Custom/Clash .
