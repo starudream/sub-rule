@@ -691,6 +691,7 @@ payload:
   - DOMAIN-SUFFIX,breakwall.net
   - DOMAIN-SUFFIX,briefdream.com
   - DOMAIN-SUFFIX,briian.com
+  - DOMAIN-SUFFIX,brill.com
   - DOMAIN-SUFFIX,brizzly.com
   - DOMAIN-SUFFIX,brkmd.com
   - DOMAIN-SUFFIX,broadbook.com
@@ -741,6 +742,7 @@ payload:
   - DOMAIN-SUFFIX,bybit.com
   - DOMAIN-SUFFIX,bynet.co.il
   - DOMAIN-SUFFIX,bypasscensorship.org
+  - DOMAIN-SUFFIX,byrut.org
   - DOMAIN-SUFFIX,c-est-simple.com
   - DOMAIN-SUFFIX,c-span.org
   - DOMAIN-SUFFIX,c-spanvideo.org
@@ -2476,6 +2478,7 @@ payload:
   - DOMAIN-SUFFIX,hkvwet.com
   - DOMAIN-SUFFIX,hkwcc.org.hk
   - DOMAIN-SUFFIX,hkzone.org
+  - DOMAIN-SUFFIX,hmoegirl.com
   - DOMAIN-SUFFIX,hmonghot.com
   - DOMAIN-SUFFIX,hmv.co.jp
   - DOMAIN-SUFFIX,hmvdigital.ca
@@ -2768,11 +2771,13 @@ payload:
   - DOMAIN-SUFFIX,ixquick.com
   - DOMAIN-SUFFIX,ixxx.com
   - DOMAIN-SUFFIX,iyouport.com
+  - DOMAIN-SUFFIX,iyouport.org
   - DOMAIN-SUFFIX,izaobao.us
   - DOMAIN-SUFFIX,izihost.org
   - DOMAIN-SUFFIX,izles.net
   - DOMAIN-SUFFIX,izlesem.org
   - DOMAIN-SUFFIX,j.mp
+  - DOMAIN-SUFFIX,jable.tv
   - DOMAIN-SUFFIX,jackjia.com
   - DOMAIN-SUFFIX,jamaat.org
   - DOMAIN-SUFFIX,jamestown.org
@@ -3051,6 +3056,7 @@ payload:
   - DOMAIN-SUFFIX,linglingfa.com
   - DOMAIN-SUFFIX,lingvodics.com
   - DOMAIN-SUFFIX,link-o-rama.com
+  - DOMAIN-SUFFIX,linkedin.com
   - DOMAIN-SUFFIX,linkideo.com
   - DOMAIN-SUFFIX,linksalpha.com
   - DOMAIN-SUFFIX,linkuswell.com
@@ -3318,6 +3324,7 @@ payload:
   - DOMAIN-SUFFIX,mobileways.de
   - DOMAIN-SUFFIX,moby.to
   - DOMAIN-SUFFIX,mobypicture.com
+  - DOMAIN-SUFFIX,mod.io
   - DOMAIN-SUFFIX,modernchinastudies.org
   - DOMAIN-SUFFIX,moeaic.gov.tw
   - DOMAIN-SUFFIX,moeerolibrary.com
@@ -3796,6 +3803,7 @@ payload:
   - DOMAIN-SUFFIX,padmanet.com
   - DOMAIN-SUFFIX,page.tl
   - DOMAIN-SUFFIX,page2rss.com
+  - DOMAIN-SUFFIX,pages.dev
   - DOMAIN-SUFFIX,pagodabox.com
   - DOMAIN-SUFFIX,palacemoon.com
   - DOMAIN-SUFFIX,paldengyal.com
@@ -4244,6 +4252,7 @@ payload:
   - DOMAIN-SUFFIX,rushbee.com
   - DOMAIN-SUFFIX,rusvpn.com
   - DOMAIN-SUFFIX,ruten.com.tw
+  - DOMAIN-SUFFIX,rutracker.net
   - DOMAIN-SUFFIX,rutube.ru
   - DOMAIN-SUFFIX,ruyiseek.com
   - DOMAIN-SUFFIX,rxhj.net

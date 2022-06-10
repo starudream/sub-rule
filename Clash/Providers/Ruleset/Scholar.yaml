@@ -1,6 +1,6 @@
 payload:
   # 内容：Scholar 国内外学术网站
-  # 数量：76条
+  # 数量：77条
   - DOMAIN-SUFFIX,acm.org
   - DOMAIN-SUFFIX,acs.org
   - DOMAIN-SUFFIX,aip.org
@@ -59,6 +59,7 @@ payload:
   - DOMAIN-SUFFIX,rsc.org
   - DOMAIN-SUFFIX,sagepub.com
   - DOMAIN-SUFFIX,sci-hub.tw
+  - DOMAIN-SUFFIX,science.org
   - DOMAIN-SUFFIX,sciencedirect.com
   - DOMAIN-SUFFIX,sciencemag.org
   - DOMAIN-SUFFIX,scitation.org

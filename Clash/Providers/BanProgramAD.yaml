@@ -799,7 +799,6 @@ payload:
   - DOMAIN-SUFFIX,ybp.yahoo.com
 
   # Zhihu
-  - DOMAIN-SUFFIX,sugar.zhihu.com
   - DOMAIN-SUFFIX,zhihu-web-analytics.zhihu.com
 
   # Ads in Video apps 下面都是 ********************
