@@ -32,6 +32,7 @@ payload:
   - DOMAIN-SUFFIX,tw
   - DOMAIN-SUFFIX,uk
   - DOMAIN-SUFFIX,us
+  - DOMAIN-SUFFIX,ca
 
   # 国外域名关键字
   - DOMAIN-KEYWORD,1e100
@@ -339,7 +340,6 @@ payload:
   - DOMAIN-SUFFIX,annatam.com
   - DOMAIN-SUFFIX,anobii.com
   - DOMAIN-SUFFIX,anontext.com
-  - DOMAIN-SUFFIX,anonymise.us
   - DOMAIN-SUFFIX,anonymitynetwork.com
   - DOMAIN-SUFFIX,anonymizer.com
   - DOMAIN-SUFFIX,anonymouse.org
@@ -684,6 +684,7 @@ payload:
   - DOMAIN-SUFFIX,brave.com
   - DOMAIN-SUFFIX,bravotube.net
   - DOMAIN-SUFFIX,brazzers.com
+  - DOMAIN-SUFFIX,breached.to
   - DOMAIN-SUFFIX,break.com
   - DOMAIN-SUFFIX,breakgfw.com
   - DOMAIN-SUFFIX,breaking911.com
@@ -722,6 +723,7 @@ payload:
   - DOMAIN-SUFFIX,bunbunhk.com
   - DOMAIN-SUFFIX,busayari.com
   - DOMAIN-SUFFIX,business-humanrights.org
+  - DOMAIN-SUFFIX,business.page
   - DOMAIN-SUFFIX,businessinsider.com
   - DOMAIN-SUFFIX,businessinsider.com.au
   - DOMAIN-SUFFIX,businesstoday.com.tw
@@ -1680,6 +1682,7 @@ payload:
   - DOMAIN-SUFFIX,finler.net
   - DOMAIN-SUFFIX,firearmsworld.net
   - DOMAIN-SUFFIX,firebaseio.com
+  - DOMAIN-SUFFIX,firefox.com
   - DOMAIN-SUFFIX,fireofliberty.org
   - DOMAIN-SUFFIX,firetweet.io
   - DOMAIN-SUFFIX,firstfivefollowers.com
@@ -1863,6 +1866,7 @@ payload:
   - DOMAIN-SUFFIX,gamez.com.tw
   - DOMAIN-SUFFIX,gamousa.com
   - DOMAIN-SUFFIX,ganges.com
+  - DOMAIN-SUFFIX,ganjingworld.com
   - DOMAIN-SUFFIX,gaoming.net
   - DOMAIN-SUFFIX,gaopi.net
   - DOMAIN-SUFFIX,gaozhisheng.net
@@ -3844,6 +3848,7 @@ payload:
   - DOMAIN-SUFFIX,pastebin.com
   - DOMAIN-SUFFIX,pastie.org
   - DOMAIN-SUFFIX,pathtosharepoint.com
+  - DOMAIN-SUFFIX,patreon.com
   - DOMAIN-SUFFIX,paxful.com
   - DOMAIN-SUFFIX,pbs.org
   - DOMAIN-SUFFIX,pbwiki.com
@@ -4025,6 +4030,7 @@ payload:
   - DOMAIN-SUFFIX,procopytips.com
   - DOMAIN-SUFFIX,project-syndicate.org
   - DOMAIN-SUFFIX,prosiben.de
+  - DOMAIN-SUFFIX,proton.me
   - DOMAIN-SUFFIX,protonvpn.com
   - DOMAIN-SUFFIX,provideocoalition.com
   - DOMAIN-SUFFIX,provpnaccounts.com
@@ -4340,6 +4346,7 @@ payload:
   - DOMAIN-SUFFIX,sellclassics.com
   - DOMAIN-SUFFIX,sendsmtp.com
   - DOMAIN-SUFFIX,sendspace.com
+  - DOMAIN-SUFFIX,sensortower.com
   - DOMAIN-SUFFIX,seraph.me
   - DOMAIN-SUFFIX,servehttp.com
   - DOMAIN-SUFFIX,serveuser.com
@@ -5632,6 +5639,7 @@ payload:
   - DOMAIN-SUFFIX,wow-life.net
   - DOMAIN-SUFFIX,wow.com
   - DOMAIN-SUFFIX,wowgirls.com
+  - DOMAIN-SUFFIX,wowhead.com
   - DOMAIN-SUFFIX,wowlegacy.ml
   - DOMAIN-SUFFIX,wowporn.com
   - DOMAIN-SUFFIX,wowrk.com
@@ -6154,6 +6162,7 @@ payload:
   - DOMAIN-SUFFIX,steamcommunity.com
   - DOMAIN-SUFFIX,steamgames.com
   - DOMAIN-SUFFIX,steampowered.com
+  - DOMAIN-SUFFIX,steamserver.net
   - DOMAIN-SUFFIX,steamstatic.com
   - DOMAIN-SUFFIX,steamstat.us
   - DOMAIN,steambroadcast.akamaized.net
