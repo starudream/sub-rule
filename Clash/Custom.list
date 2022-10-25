@@ -3,3 +3,5 @@
 # wildcard DNS
 DOMAIN-SUFFIX,nip.io
 DOMAIN-SUFFIX,sslip.io
+
+DOMAIN-SUFFIX,prts.wiki

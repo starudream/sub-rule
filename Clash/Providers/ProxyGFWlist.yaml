@@ -614,6 +614,7 @@ payload:
   - DOMAIN-SUFFIX,blinkx.com
   - DOMAIN-SUFFIX,blinw.com
   - DOMAIN-SUFFIX,blip.tv
+  - DOMAIN-SUFFIX,blockcast.it
   - DOMAIN-SUFFIX,blockcn.com
   - DOMAIN-SUFFIX,blockedbyhk.com
   - DOMAIN-SUFFIX,blockless.com
@@ -1096,6 +1097,7 @@ payload:
   - DOMAIN-SUFFIX,crossfire.co.kr
   - DOMAIN-SUFFIX,crossthewall.net
   - DOMAIN-SUFFIX,crossvpn.net
+  - DOMAIN-SUFFIX,croxyproxy.com
   - DOMAIN-SUFFIX,crrev.com
   - DOMAIN-SUFFIX,crucial.com
   - DOMAIN-SUFFIX,crunchyroll.com
@@ -2698,6 +2700,7 @@ payload:
   - DOMAIN-SUFFIX,inoreader.com
   - DOMAIN-SUFFIX,inote.tw
   - DOMAIN-SUFFIX,insecam.org
+  - DOMAIN-SUFFIX,inside.com.tw
   - DOMAIN-SUFFIX,insidevoa.com
   - DOMAIN-SUFFIX,instagram.com
   - DOMAIN-SUFFIX,instanthq.com
@@ -2822,6 +2825,7 @@ payload:
   - DOMAIN-SUFFIX,jgoodies.com
   - DOMAIN-SUFFIX,jiangweiping.com
   - DOMAIN-SUFFIX,jiaoyou8.com
+  - DOMAIN-SUFFIX,jichangtj.com
   - DOMAIN-SUFFIX,jiehua.cz
   - DOMAIN-SUFFIX,jiepang.com
   - DOMAIN-SUFFIX,jieshibaobao.com
@@ -3048,7 +3052,7 @@ payload:
   - DOMAIN-SUFFIX,liberal.org.hk
   - DOMAIN-SUFFIX,libertytimes.com.tw
   - DOMAIN-SUFFIX,libraryinformationtechnology.com
-  - DOMAIN-SUFFIX,lidecheng.com
+  - DOMAIN-SUFFIX,libredd.it
   - DOMAIN-SUFFIX,lifemiles.com
   - DOMAIN-SUFFIX,lighten.org.tw
   - DOMAIN-SUFFIX,lighti.me
@@ -3690,6 +3694,7 @@ payload:
   - DOMAIN-SUFFIX,nzchinese.com
   - DOMAIN-SUFFIX,nzchinese.net.nz
   - DOMAIN-SUFFIX,oanda.com
+  - DOMAIN-SUFFIX,oann.com
   - DOMAIN-SUFFIX,oauth.net
   - DOMAIN-SUFFIX,observechina.net
   - DOMAIN-SUFFIX,obutu.com
@@ -3885,12 +3890,11 @@ payload:
   - DOMAIN-SUFFIX,peoplenews.tw
   - DOMAIN-SUFFIX,peopo.org
   - DOMAIN-SUFFIX,percy.in
+  - DOMAIN-SUFFIX,perfect-privacy.com
   - DOMAIN-SUFFIX,perfectgirls.net
-  - DOMAIN-SUFFIX,perfectvpn.net
   - DOMAIN-SUFFIX,periscope.tv
   - DOMAIN-SUFFIX,persecutionblog.com
   - DOMAIN-SUFFIX,persiankitty.com
-  - DOMAIN-SUFFIX,pfd.org.hk
   - DOMAIN-SUFFIX,phapluan.org
   - DOMAIN-SUFFIX,phayul.com
   - DOMAIN-SUFFIX,philborges.com
@@ -4661,6 +4665,7 @@ payload:
   - DOMAIN-SUFFIX,studentsforafreetibet.org
   - DOMAIN-SUFFIX,stumbleupon.com
   - DOMAIN-SUFFIX,stupidvideos.com
+  - DOMAIN-SUFFIX,substack.com
   - DOMAIN-SUFFIX,successfn.com
   - DOMAIN-SUFFIX,sueddeutsche.de
   - DOMAIN-SUFFIX,sugarsync.com
@@ -5349,6 +5354,7 @@ payload:
   - DOMAIN-SUFFIX,venetianmacao.com
   - DOMAIN-SUFFIX,ventureswell.com
   - DOMAIN-SUFFIX,veoh.com
+  - DOMAIN-SUFFIX,vercel.app
   - DOMAIN-SUFFIX,verizon.net
   - DOMAIN-SUFFIX,vermonttibet.org
   - DOMAIN-SUFFIX,versavpn.com
@@ -5384,6 +5390,7 @@ payload:
   - DOMAIN-SUFFIX,viu.com
   - DOMAIN-SUFFIX,viu.tv
   - DOMAIN-SUFFIX,vivahentai4u.net
+  - DOMAIN-SUFFIX,vivaldi.com
   - DOMAIN-SUFFIX,vivatube.com
   - DOMAIN-SUFFIX,vivthomas.com
   - DOMAIN-SUFFIX,vizvaz.com
@@ -6245,3 +6252,7 @@ payload:
 
   #华文电视
   - DOMAIN-SUFFIX,ocnttv.com
+
+  # VikACG
+  - DOMAIN-SUFFIX,vikacg.com
+  - DOMAIN-SUFFIX,picjs.xyz

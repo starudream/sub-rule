@@ -39,3 +39,6 @@ payload:
   # General
   - DOMAIN,app.adjust.com
   - DOMAIN,bdtj.tagtic.cn
+
+  # Hypixel Network
+  - DOMAIN,rewards.hypixel.net
