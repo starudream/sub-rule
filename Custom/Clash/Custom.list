@@ -4,4 +4,6 @@
 DOMAIN-SUFFIX,nip.io
 DOMAIN-SUFFIX,sslip.io
 
+# others
 DOMAIN-SUFFIX,prts.wiki
+DOMAIN-SUFFIX,tophub.fun
