@@ -705,8 +705,6 @@ cfw-bypass:
   - "*.clouddn.com"
   - "*.cloudxns.net"
   - "*.cn163.net"
-  - "*.cnbeta.com"
-  - "*.cnbetacdn.com"
   - "*.cnblogs.com"
   - "*.cnki.net"
   - "*.cnmstl.net"
