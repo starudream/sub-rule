@@ -1,7 +1,7 @@
 # 内容：中国IP地址段ipv6
 # 来源：https://ispip.clang.cn/all_cn_ipv6.txt
-# 更新：2022-12-16 23:12:10
-# 数量：1965条
+# 更新：2023-01-15 22:06:38
+# 数量：1966条
 
 IP-CIDR6,2001:250::/35,no-resolve
 IP-CIDR6,2001:250:2000::/35,no-resolve
@@ -86,7 +86,6 @@ IP-CIDR6,2001:df4:1500::/48,no-resolve
 IP-CIDR6,2001:df4:1880::/48,no-resolve
 IP-CIDR6,2001:df4:2780::/48,no-resolve
 IP-CIDR6,2001:df4:2e80::/48,no-resolve
-IP-CIDR6,2001:df4:3c80::/48,no-resolve
 IP-CIDR6,2001:df4:3d80::/48,no-resolve
 IP-CIDR6,2001:df4:4b80::/48,no-resolve
 IP-CIDR6,2001:df4:4d80::/48,no-resolve
@@ -287,7 +286,6 @@ IP-CIDR6,2400:8840::/32,no-resolve
 IP-CIDR6,2400:8920::/32,no-resolve
 IP-CIDR6,2400:8980::/32,no-resolve
 IP-CIDR6,2400:89c0::/32,no-resolve
-IP-CIDR6,2400:8ae0::/32,no-resolve
 IP-CIDR6,2400:8be0::/32,no-resolve
 IP-CIDR6,2400:8ce0::/32,no-resolve
 IP-CIDR6,2400:8e00::/32,no-resolve
@@ -361,13 +359,16 @@ IP-CIDR6,2400:cc40::/32,no-resolve
 IP-CIDR6,2400:cc80::/32,no-resolve
 IP-CIDR6,2400:ccc0::/32,no-resolve
 IP-CIDR6,2400:cd40::/32,no-resolve
+IP-CIDR6,2400:cda0::/32,no-resolve
 IP-CIDR6,2400:cdc0::/32,no-resolve
 IP-CIDR6,2400:ce00::/32,no-resolve
 IP-CIDR6,2400:ce40::/32,no-resolve
 IP-CIDR6,2400:cf40::/32,no-resolve
 IP-CIDR6,2400:cfc0::/32,no-resolve
+IP-CIDR6,2400:d0a0::/32,no-resolve
 IP-CIDR6,2400:d0c0::/32,no-resolve
 IP-CIDR6,2400:d100::/32,no-resolve
+IP-CIDR6,2400:d160::/32,no-resolve
 IP-CIDR6,2400:d1c0::/32,no-resolve
 IP-CIDR6,2400:d200::/32,no-resolve
 IP-CIDR6,2400:d300::/32,no-resolve
@@ -1656,7 +1657,6 @@ IP-CIDR6,2406:7980::/32,no-resolve
 IP-CIDR6,2406:7a80::/32,no-resolve
 IP-CIDR6,2406:7b80::/32,no-resolve
 IP-CIDR6,2406:7c80::/32,no-resolve
-IP-CIDR6,2406:7cc0::/32,no-resolve
 IP-CIDR6,2406:7d00::/32,no-resolve
 IP-CIDR6,2406:7d80::/32,no-resolve
 IP-CIDR6,2406:7e80::/32,no-resolve
@@ -1952,6 +1952,7 @@ IP-CIDR6,240b:2000::/22,no-resolve
 IP-CIDR6,240b:6000::/20,no-resolve
 IP-CIDR6,240b:8000::/21,no-resolve
 IP-CIDR6,240b:a000::/25,no-resolve
+IP-CIDR6,240b:e000::/26,no-resolve
 IP-CIDR6,240c::/28,no-resolve
 IP-CIDR6,240c:4000::/22,no-resolve
 IP-CIDR6,240c:8000::/21,no-resolve
