@@ -11,6 +11,7 @@ payload:
   - DOMAIN-SUFFIX,lan
   - DOMAIN-SUFFIX,local
   - DOMAIN-SUFFIX,localhost
+  - IP-CIDR,0.0.0.0/8,no-resolve
   - IP-CIDR,10.0.0.0/8,no-resolve
   - IP-CIDR,100.64.0.0/10,no-resolve
   - IP-CIDR,127.0.0.0/8,no-resolve
@@ -27,6 +28,7 @@ payload:
   - DOMAIN,instant.arubanetworks.com
   - DOMAIN,setmeup.arubanetworks.com
   - DOMAIN,router.asus.com
+  - DOMAIN,www.asusrouter.com
   - DOMAIN-SUFFIX,hiwifi.com
   - DOMAIN-SUFFIX,leike.cc
   - DOMAIN-SUFFIX,miwifi.com
@@ -39,3 +41,4 @@ payload:
   - DOMAIN-SUFFIX,tendawifi.com
   - DOMAIN-SUFFIX,zte.home
   - DOMAIN-SUFFIX,tplogin.cn
+  - DOMAIN-SUFFIX,wifi.cmcc
