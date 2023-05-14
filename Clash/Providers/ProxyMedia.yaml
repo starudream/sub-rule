@@ -1,7 +1,7 @@
 payload:
   # 内容：国外媒体列表
-  # 更新：2023-04-20 21:24:56
-  # 数量：350条
+  # 更新：2023-05-10 08:43:42
+  # 数量：356条
 
   # ABC
   - DOMAIN-SUFFIX,edgedatg.com
@@ -332,6 +332,14 @@ payload:
   - DOMAIN-SUFFIX,olevod.tv
   - DOMAIN-SUFFIX,olevodtv.com
 
+  # OpenAi
+  - DOMAIN-KEYWORD,openai
+  - DOMAIN-SUFFIX,ai.com
+  - DOMAIN-SUFFIX,challenges.cloudflare.com
+  - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+  - DOMAIN-SUFFIX,stripe.com
+
   # PBS
   # USER-AGENT,PBS*
   - DOMAIN-SUFFIX,pbs.org
@@ -357,7 +365,7 @@ payload:
 
   # Spotify
   # USER-AGENT,Spotify*
-  - DOMAIN-KEYWORD,-spotify-com
+  - DOMAIN-KEYWORD,-spotify-
   - DOMAIN-KEYWORD,spotify.com
   - DOMAIN-SUFFIX,pscdn.co
   - DOMAIN-SUFFIX,scdn.co
@@ -379,7 +387,7 @@ payload:
 
   # TikTok
   # USER-AGENT,TikTok*
-  - DOMAIN-KEYWORD,tiktokcdn-
+  - DOMAIN-KEYWORD,tiktokcdn
   - DOMAIN-SUFFIX,byteoversea.com
   - DOMAIN-SUFFIX,ibytedtos.com
   - DOMAIN-SUFFIX,ipstatp.com
