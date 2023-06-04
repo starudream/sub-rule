@@ -1,11 +1,14 @@
 name: Sync
 
 permissions:
-  repository-projects: write
+  contents: write
 
 on:
+  push:
+    branches:
+      - master
   schedule:
-    - cron: '0 */4 * * *'
+    - cron: '0 0 * * *'
 
 jobs:
   sync:
