@@ -1,0 +1,44 @@
+# HTTP(S) 代理服务端口
+# port: 7890
+
+# SOCKS5 代理服务端口
+# socks-port: 7891
+
+# Linux 和 macOS 的透明代理服务端口 (TCP 和 TProxy UDP 重定向)
+# redir-port: 7892
+
+# Linux 的透明代理服务端口 (TProxy TCP 和 TProxy UDP)
+# tproxy-port: 7893
+
+# HTTP(S) 和 SOCKS4(A)/SOCKS5 代理服务共用一个端口
+mixed-port: 7890
+
+# 本地 SOCKS5/HTTP(S) 代理服务的认证
+# authentication:
+#  - "user1:pass1"
+#  - "user2:pass2"
+
+# 设置为 true 以允许来自其他 LAN IP 地址的连接
+allow-lan: true
+
+# 仅当 `allow-lan` 为 `true` 时有效
+# '*': 绑定所有 IP 地址
+# 192.168.122.11: 绑定单个 IPv4 地址
+# "[aaaa::a8aa:ff:fe09:57d8]": 绑定单个 IPv6 地址
+# bind-address: '*'
+
+# Clash 路由工作模式
+# rule: 基于规则的数据包路由
+# global: 所有数据包将被转发到单个节点
+# direct: 直接将数据包转发到互联网
+mode: rule
+
+# 默认情况下, Clash 将日志打印到 STDOUT
+# 日志级别: info / warning / error / debug / silent
+log-level: info
+
+# 当设置为 false 时, 解析器不会将主机名解析为 IPv6 地址
+# ipv6: false
+
+# RESTful Web API 监听地址
+external-controller: 127.0.0.1:9090
