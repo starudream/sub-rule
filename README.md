@@ -65,5 +65,9 @@
 
 - [ACL4SSR_WithGFW.ini](https://cdn.jsdelivr.net/gh/starudream/sub-rule/Clash/config/ACL4SSR_WithGFW.ini)
 
+- [full.ini](https://cdn.jsdelivr.net/gh/starudream/sub-rule/Clash/config/full.ini)
+
+- [renzhe.ini](https://cdn.jsdelivr.net/gh/starudream/sub-rule/Clash/config/renzhe.ini)
+
 - [simple.ini](https://cdn.jsdelivr.net/gh/starudream/sub-rule/Clash/config/simple.ini)
 
