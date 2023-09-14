@@ -33,7 +33,6 @@
 {"label": "ACL4SSR_WithChinaIp_WithGFW.ini","value": "https://cdn.jsdelivr.net/gh/starudream/sub-rule/Clash/config/ACL4SSR_WithChinaIp_WithGFW.ini"},
 {"label": "ACL4SSR_WithGFW.ini","value": "https://cdn.jsdelivr.net/gh/starudream/sub-rule/Clash/config/ACL4SSR_WithGFW.ini"},
 {"label": "agg.ini","value": "https://cdn.jsdelivr.net/gh/starudream/sub-rule/Clash/config/agg.ini"},
-{"label": "full.ini","value": "https://cdn.jsdelivr.net/gh/starudream/sub-rule/Clash/config/full.ini"},
 {"label": "renzhe.ini","value": "https://cdn.jsdelivr.net/gh/starudream/sub-rule/Clash/config/renzhe.ini"},
 {"label": "simple.ini","value": "https://cdn.jsdelivr.net/gh/starudream/sub-rule/Clash/config/simple.ini"}
 ]
