@@ -11,6 +11,7 @@ dist:
 	@rm -rf Clash
 	cp -rf ACL4SSR/Clash .
 	cp -rf Custom/Clash .
+	echo '\nDOMAIN-SUFFIX,oaistatic.com' >> Clash/Ruleset/OpenAi.list
 	sed -i 's|/ACL4SSR/ACL4SSR/|/starudream/sub-rule/|g' Clash/config/*.ini
 	#sed -i 's|https://raw.githubusercontent.com/starudream/sub-rule/master/|https://cdn.jsdelivr.net/gh/starudream/sub-rule/|g' Clash/config/*.ini
 	bash gen_readme.sh
