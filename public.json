@@ -34,5 +34,6 @@
 {"label": "ACL4SSR_WithGFW.ini","value": "https://raw.githubusercontent.com/starudream/sub-rule/master/Clash/config/ACL4SSR_WithGFW.ini"},
 {"label": "agg.ini","value": "https://raw.githubusercontent.com/starudream/sub-rule/master/Clash/config/agg.ini"},
 {"label": "renzhe.ini","value": "https://raw.githubusercontent.com/starudream/sub-rule/master/Clash/config/renzhe.ini"},
-{"label": "simple.ini","value": "https://raw.githubusercontent.com/starudream/sub-rule/master/Clash/config/simple.ini"}
+{"label": "simple.ini","value": "https://raw.githubusercontent.com/starudream/sub-rule/master/Clash/config/simple.ini"},
+{"label": "wd.ini","value": "https://raw.githubusercontent.com/starudream/sub-rule/master/Clash/config/wd.ini"}
 ]

@@ -71,3 +71,5 @@
 
 - [simple.ini](https://raw.githubusercontent.com/starudream/sub-rule/master/Clash/config/simple.ini)
 
+- [wd.ini](https://raw.githubusercontent.com/starudream/sub-rule/master/Clash/config/wd.ini)
+
