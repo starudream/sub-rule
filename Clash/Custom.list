@@ -4,6 +4,5 @@
 DOMAIN-SUFFIX,nip.io
 DOMAIN-SUFFIX,sslip.io
 
-# others
-DOMAIN-SUFFIX,prts.wiki
-DOMAIN-SUFFIX,tophub.fun
+# docker network
+IP-CIDR,172.100.100.0/24,no-resolve
